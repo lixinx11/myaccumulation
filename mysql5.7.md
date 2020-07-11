@@ -1,0 +1,2 @@
+mysql myaccumulation
+日常软件安装及文档使用
